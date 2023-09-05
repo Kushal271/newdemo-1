@@ -1,3 +1,7 @@
 2nd file added
 so what
+<<<<<<< HEAD
 2*2=4
+=======
+branches added
+>>>>>>> 0a66f1655ab134171765db533ff2afb4ad317822
